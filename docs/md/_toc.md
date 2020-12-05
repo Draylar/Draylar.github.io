@@ -4,8 +4,9 @@
 >
 > [Minecraft Mapper](/docs/projects/minecraft-mapper)
 
-[Modding](/docs/modding/)
-[Tutorials](/docs/tutorials/)
+> :Collapse label=Modding
+>
+> [Intro to Modding](/docs/modding/1_intro)
 
 <br><br>
 

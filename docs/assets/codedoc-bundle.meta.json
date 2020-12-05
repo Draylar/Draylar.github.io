@@ -2,95 +2,110 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
-      "hash": "cP3WJ0QiCVb8KwDMELYZvg=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
+      "hash": "cEN+uBrVxxGN099WwYIrgA=="
     },
     {
       "name": "installTheme",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/content/theme.ts",
-      "hash": "NkhXU6MokM0ZwrQy/uIfcw=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/content/theme.ts",
+      "hash": "WJUDr++nhAGuWu++SeJxew=="
     },
     {
       "name": "codeSelection",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
-      "hash": "REpUAI7caRlHPuEdCT8P0w=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
+      "hash": "IsWOT1/iUufX3XTnehNzkQ=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
-      "hash": "8JkhCWgtdJlauGE+tRvsXw=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
+      "hash": "NlySBvLCvAx7nV+r0SNZhA=="
     },
     {
       "name": "initHintBox",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
-      "hash": "Y2LeCe7oUCQp4gksrAhseQ=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
+      "hash": "u2D/RlrLMuDyacW70fWebg=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
-      "hash": "kcquDooBlvkI95nNz22GjA=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
+      "hash": "j/DaBTK/z9hNDow37T1QfQ=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
-      "hash": "QwjmqMIW1Y+x5pI+aWqOMA=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
+      "hash": "jfxSSYmczCQ1RsKLL/PL3w=="
     },
     {
       "name": "copyHeadings",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
-      "hash": "WNFnmzB9hpMbr0KQwz/HpA=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
+      "hash": "SoztwaqwZH/EmN3Y+vmq/Q=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
-      "hash": "0kb9SS7+DJwJw4YUP8Zi+A=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
+      "hash": "X4HFsCg82NvJ2veb9o/u0w=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
-      "hash": "F/6SKiP3MwugjG4lQWdmVA=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
+      "hash": "VwQW9++8rcYYJF+OIJZXDg=="
     },
     {
       "name": "smoothLoading",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
-      "hash": "w/+kqdOsiwcYNcl4OFYLAQ=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
+      "hash": "vy10dDwUrDciFDWXytEbLA=="
     },
     {
       "name": "tocHighlight",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
-      "hash": "upDksTIasOnMAY9MRacfdQ=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
+      "hash": "fyUyIWzHm8l9PxBbK7pH9g=="
     },
     {
       "name": "postNavSearch",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
-      "hash": "gYSz1Y0g/mD0mX7uDmTuyw=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
+      "hash": "BsNgJyLZqgPaM2NIbG6mgg=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
+      "hash": "As3YENDcB8sxyQdyergOzg=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js",
+      "hash": "ko42f+njtoLIF4NL0aMevA=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/serve/reload.js",
+      "hash": "sb6biJOw+PfV0gLWNG4tpQ=="
     }
   ],
   "components": [
     {
       "name": "CollapseControl",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
-      "hash": "gwnm+CCe7YA2A8iWMvc15w=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "B+jY4oJTueSk4hUtt6JsQQ=="
     },
     {
       "name": "ToCToggle",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
-      "hash": "mkd0IW9adI8nVPOfeCHzvw=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
+      "hash": "/uBSccGheHAqkvTsPy+Y1w=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
-      "hash": "68IUsjVoDa7JTaO6CyYGjg=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
+      "hash": "trb7tbRnabs+F7JAKtQi8A=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
-      "hash": "7HhdAF30gXWpbtwsT+4gyg=="
+      "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
+      "hash": "oWhFNm18yLw7eiNMTKCFSw=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "C:/Users/samue/Desktop/Web Development/blog/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
-    "hash": "Q86wU9m3sMUr7OgOU4rBVA=="
+    "filename": "C:/Users/samue/Desktop/Draylar.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
+    "hash": "L99YvOb/bl4+fKx6TBJ/Bw=="
   }
 }
