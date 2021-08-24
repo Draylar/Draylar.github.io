@@ -1,6 +1,7 @@
 # vscode files
 .vscode/
 .vs/
+.history/
 
 # CodeDoc
 .codedoc/
