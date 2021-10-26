@@ -2,6 +2,7 @@ body, html {
     font-family: 'Poppins', sans-serif;
     background-color: #212121;
     color: white;
+    margin: 0px;
 }
 
 h1 {
@@ -49,7 +50,7 @@ a {
 }
 
 .selected {
-    text-decoration: underline #551A8B;
+    text-decoration: underline #EB59A7;
 }
 
 
@@ -138,4 +139,26 @@ a {
 
 .spacer {
     height: 250px;
+}
+
+.pretty-bar {
+    position: fixed;
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, rgba(235,89,167,1) 0%, rgba(9,9,121,1) 35%, rgba(4,189,177,1) 68%, rgba(235,89,167,1) 100%);
+}
+
+#top {
+    top: 0;
+    left: 0;
+}
+
+#bottom {
+    bottom: 0;
+    left: 0;
+}
+
+.nav-element:hover {
+    text-decoration: underline #551A8B;
+    transform: translate(120px, 50%);
 }
